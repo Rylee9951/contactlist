@@ -1,0 +1,30 @@
+.container{
+width: 400px;
+margin: auto;
+}
+.header{
+width: 100%;
+height: 60px;
+background: #8EB94E;
+color: white;
+padding-left: 20px;
+line-height: 60px;
+border-bottom: 3px solid #599119;
+margin-bottom: 10px;
+}
+.userWrap{
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  padding: 5px;
+}
+.userThumb{
+  border-radius: 100px;
+  margin-right: 15px;
+}
+.userName{
+  text-transform: capitalize;
+  color: black;
+}
+a{
+  text-decoration: none;
+}

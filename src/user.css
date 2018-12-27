@@ -1,0 +1,34 @@
+.userContainer{
+  width: 350px;
+  margin: auto;
+}
+.imgContainer{
+  width: 100%;
+  height: 200px;
+  background: #9DC96B;
+  text-align: center;
+}
+.imgContainer img{
+  border-radius: 100px;
+  margin-top: 35px;
+}
+span{
+  text-transform: capitalize;
+}
+.label{
+  border-bottom: 2px solid #ccc;
+  padding: 20px 0 20px 10px;
+}
+.label .fa{
+  font-size: 17px;
+  margin-right: 10px;
+}
+button{
+  position: relative;
+  top: -130px;
+  left: -70px;
+  border: none;
+  outline: none;
+  background:transparent;
+  font-size: 20px;
+}
